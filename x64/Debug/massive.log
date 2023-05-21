@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\intel\source\repos\massive\main.cpp(9,6): warning C4101: b: неиспользованная локальная переменная
+  massive.vcxproj -> C:\Users\intel\source\repos\massive\x64\Debug\massive.exe
